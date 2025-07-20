@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 import cv2
 
-model = YOLO('yolov11m.pt')
+model = YOLO('yolov8m.pt')
 cap = cv2.VideoCapture(0)  # Buka webcam
 
 while True:
