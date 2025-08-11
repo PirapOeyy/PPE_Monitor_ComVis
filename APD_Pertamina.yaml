@@ -1,0 +1,10 @@
+names:
+- Hardhat
+- No Hardhat
+- No Overall Suit
+- No Safety Boots
+- Overall Suit
+- Safety Boots
+nc: 6
+train: c:\ComVis_PPE_Monitor\DatasetTrain1_K3.yolov8\train
+val: c:\ComVis_PPE_Monitor\DatasetTrain1_K3.yolov8\valid
